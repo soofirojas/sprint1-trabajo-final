@@ -11,7 +11,7 @@ El usuario no debe poder ingresar un campo vacío o que contenga números.
 
 1. Crear archivo html y js y enlazarlos.
 2. Crear un prompt que le pida al usuario escribir una frase.
-En el archivo js crear la función cipher que será la que de convertirá el mensaje del usuario a cifrado César.
-Dentro de la función estará la fórmula
+3. En el archivo js crear la función cipher que será la que de convertirá el mensaje del usuario a cifrado César.
+4. Crear la función decipher que será la encargada de hacer el procedimiento inverso: un mensaje cifrado
 
 Crear un document.write que muestre en pantalla el mensaje encriptado.
