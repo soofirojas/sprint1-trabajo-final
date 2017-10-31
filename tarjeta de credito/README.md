@@ -40,4 +40,4 @@ for (var i = 0; i < a.length; i++) {
 10.1 para ello debe hacerse un if numN % 10 === 0, return true
 10.2 si no return false
 
-![diagrama-flujo](https://imgur.com/a/Yknjr "diagrama-de-flujo.jpg").
+![diagrama-flujo-tarjeta](./assets/images/diagrama-de-flujo.jpg)
